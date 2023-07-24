@@ -25,4 +25,9 @@ Necesito tres ***asteriscos para que esten en negrita y cursiva a la vez***
 
 #Insertamos una imagen
 
-![![La Barbie](Imagenes/barbie.webp){width="1500"}](imagenes/LIDE%20-%20Logo%201-19.png)
+![](LIDE%20-%20Logo%201-19.png)
+
+![](Imagenes/barbie.webp)
+
+la pagina web del New Dimensions es [aqui](http://newdimensions.academy/)
+o asi <http://newdimensions.academy/>
