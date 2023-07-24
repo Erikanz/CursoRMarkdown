@@ -29,5 +29,10 @@ Necesito tres ***asteriscos para que esten en negrita y cursiva a la vez***
 
 ![](Imagenes/barbie.webp)
 
-la pagina web del New Dimensions es [aqui](http://newdimensions.academy/)
-o asi <http://newdimensions.academy/>
+la pagina web del New Dimensions es [aqui](http://newdimensions.academy/) o asi <http://newdimensions.academy/>
+
+# titulo
+
+## subtitulo
+
+###sub-subtitulo
