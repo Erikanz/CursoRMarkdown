@@ -4,4 +4,6 @@ En este repositorio se almacena el codigo y los archivos del curso de Rmarkdown 
 
 *Aqui va un párrafo nuevo.* Como soy **vago** trabajo desde el panel visual.
 
-Este es el tercer Párrafo
+Este es el tercer Párrafo.  
+Este es un cuarto párrafp sin espacio.
+
